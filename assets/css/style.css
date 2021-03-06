@@ -84,7 +84,7 @@ h6 {
 }
 
 #header .header-container {
-  background: #fff;
+  background: #001;
 }
 
 #header.header-scrolled {
@@ -104,7 +104,7 @@ h6 {
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  font-family: "Poppins", sans-serif;
+  font-family: Georgia, "Poppins", sans-serif;
 }
 
 #header .logo h1 a,
@@ -394,7 +394,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: url("../img/hero-bg.jpg") center center;
+  background: url("../img/Jewelry4.gif") center center;
   background-size: cover;
   position: relative;
 }
